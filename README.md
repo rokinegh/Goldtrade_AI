@@ -145,7 +145,7 @@ If you use this project in your research, please cite:
 @software{goldtrade_ai,
   title = {GoldTrade-AI: NLP-based Quality Classification for Gold E-commerce Listings},
   year = {2025},
-  url = {https://github.com/yourusername/GoldTrade-AI}
+  url = {https://github.com/rokinegh/GoldTrade_AI}
 }
 ```
 
